@@ -1,5 +1,5 @@
 # processo
-Sistema de Gestão de Processos
+Back end de Gestão de Processos
 
 
 **Stack**
